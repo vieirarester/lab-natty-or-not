@@ -15,7 +15,7 @@ Este projeto explora o potencial de ferramentas baseadas em IA Generativa para c
 5. Finalização: Exportei o vídeo final com o avatar em ação, pronto para compartilhamento.
 
 ## 🚀 Resultados
-Criei um avatar animado que reflete minha personalidade, utilizando minha própria voz e imagem. Confira aqui: [VÍDEO](https://drive.google.com/file/d/1tCsIQVe5QOa7L2RDEO3RaFriwW3DTrQA/view?usp=sharing)
+Criei um avatar animado que reflete minha personalidade, utilizando minha própria voz e imagem. Confira aqui: [VÍDEO](https://studio.d-id.com/share?id=d6ca332aa13d66941505f57d3b3079c8&utm_source=copy)
 
 ## 💭 Reflexão
 Explorar ferramentas de IA Generativa foi um desafio que mostra que é possível produzir conteúdo com IAs sem utilizar tecnologias complexas. A inteligência artificial está mais perto de nós do que imaginamos! 
